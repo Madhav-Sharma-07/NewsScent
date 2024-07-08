@@ -43,7 +43,7 @@ class DataCollector:
 
 # Example
 if __name__ == "__main__":
-    api_key = "coo98khr01qm6hd1e1g0coo98khr01qm6hd1e1gg"  # Replace with your API key
+    api_key = ""  # Replace with your API key
     data_collector = DataCollector(api_key)
     company_symbol = "AAPL"
     from_date = "2023-08-15"
