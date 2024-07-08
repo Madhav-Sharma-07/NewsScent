@@ -1,7 +1,7 @@
 # Sentiment Analysis of News Articles
 
 ## Project Overview
-This project is designed to perform sentiment analysis on news articles related to specific companies or topics. It utilizes a combination of Python libraries and machine learning techniques to preprocess text data, train sentiment classification models, and visualize the results.
+This project is designed to perform sentiment analysis on news articles related to specific companies or topics. It utilizes a combination of Python libraries and machine learning techniques to preprocess text data, train sentiment classification models, and visualize the results. This is my final project for CIS 1902 at the University of Pennsylvania in Spring 2024.
 
 ## Features and Components
 
